@@ -1,3 +1,4 @@
+//always block
 module top_module(
     input clk,
     input a,
