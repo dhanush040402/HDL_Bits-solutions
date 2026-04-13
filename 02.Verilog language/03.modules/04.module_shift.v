@@ -1,3 +1,4 @@
+//module
 module top_module ( input clk, input d, output q );
 wire w1,w2;
     my_dff d1(.clk(clk),.d(d),.q(w1));
